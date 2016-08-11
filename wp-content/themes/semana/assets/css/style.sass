@@ -1,0 +1,106 @@
+@import "lib/settings"
+@import "lib/general"
+@import "lib/grid"
+@import "theme/Header"
+
+body
+  font-family: 'Roboto Condensed', sans-serif
+  overflow-x: hidden
+.Header
+  margin: auto
+  position: relative
+  max-width: rem(1040)
+  padding-top: rem(100)
+
+.Header-figure
+  top: rem(-135)
+  right: -9rem
+  max-width: rem(800)
+  position: absolute
+  svg
+    max-width: 100%
+
+.Nav
+  border-bottom: rem(2) solid  #FFED00
+  padding: rem(65) 0 rem(14)
+  a
+    padding: rem(10) rem(16) rem(8)
+    &.current
+      background:  #FFED00
+  ul
+    width: 100%
+    @include respond-to(middle)
+      width: auto
+  li
+    margin: rem(20) auto
+    @include respond-to(middle)
+      margin:  auto
+
+.Home
+  article
+    text-align: center
+    padding: 0 1.5rem
+  h3
+    font-weight: 600
+    background: #FFED00
+    display: inline-block
+    text-align: justify
+    margin: rem(20) 0  rem(10)
+    font-size: rem(17 )
+  h4
+    text-align: justify
+    margin: 0
+  span
+    font-size: rem(13)
+  hr
+    margin: rem(20) 0
+.Home-p
+  text-align: justify
+  line-height: rem(22)
+  margin: 0
+.Home-prize
+  max-width: rem(300)
+  margin: auto
+.Home-categories
+  text-align: justify
+  margin-top: rem(20)
+.Date
+  padding: rem(20) 0
+  text-align: left
+  span
+    display: block
+    font-size: rem(15)
+  h3
+    font-weight: 400
+    background: #FFED00
+    display: inline-block
+  li
+    @include respond-to(middle)
+      border-left: rem(1) solid
+      padding: 0 rem(12)
+    &:first-child
+      border-left: none
+      padding-left: 0
+    &:last-child
+      padding-right: 0
+.Footer
+  max-width: rem(1120)
+  border-top: rem(4) #FFED00 solid
+  margin: rem(30) auto 0
+  @include respond-to(large)
+    padding: rem(20) 0 rem(200)
+  padding: rem(20) 0
+  position: relative
+  overflow: hidden
+.Footer-figure
+  display: none
+  @include respond-to(large)
+    display: block
+  position: absolute
+  max-width: 100%
+  top: 7.5rem
+  left: 0
+.Footer-logos
+  figure
+    padding: rem(20)
+
