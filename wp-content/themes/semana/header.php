@@ -73,13 +73,8 @@ Theme: Premio-nacional-teatro
                     </svg>
                 </a></li>
         </ul>
-        <ul class="row middle">
-            <li><a class="current" href="">PREMIO NACIONAL DE TEATRO</a></li>
-            <li><a href="">CATEGORÍA</a></li>
-            <li><a href="">CATEGORÍA</a></li>
-            <li><a href="">CATEGORÍA</a></li>
-            <li><a href="">CATEGORÍA</a></li>
-        </ul>
+        <?php wp_nav_menu( array( 'theme_location'> 'menuHeader' ) ); ?>
+
     </nav>
 </header>
 <main>

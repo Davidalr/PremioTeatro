@@ -23,10 +23,12 @@ body
 .Nav
   border-bottom: rem(2) solid  #FFED00
   padding: rem(65) 0 rem(14)
+  .current_page_item a
+    background:  #FFED00
+    text-transform: uppercase
   a
     padding: rem(10) rem(16) rem(8)
-    &.current
-      background:  #FFED00
+
   ul
     width: 100%
     @include respond-to(middle)
@@ -104,3 +106,24 @@ body
   figure
     padding: rem(20)
 
+#menu-menuheader
+  display: -webkit-flex
+  display: -ms-flexbox
+  display: -webkit-box
+  display: flex
+
+  -webkit-flex: 0 1 auto
+  -ms-flex: 0 1 auto
+  -webkit-box-flex: 0
+  flex: 0 1 auto
+
+  -webkit-flex-direction: row
+  -ms-flex-direction: row
+  -webkit-box-orient: horizontal
+  -webkit-box-direction: normal
+  flex-direction: row
+
+  -webkit-flex-wrap: wrap
+  -ms-flex-wrap: wrap
+  flex-wrap: wrap
+  text-transform: uppercase
