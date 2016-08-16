@@ -5,9 +5,9 @@
                 src="<?php bloginfo('template_url') ?>/assets/images/premio-nacional-de-teatro.png" alt="">
         </figure>
         <p class="Home-p">
-            <b>OBRA SEMAPA</b> convoca a dramaturgos, directores, escenógrafas, directores de arte, actores y demás
-            participantes ante los procesos de creación de teatro, a particpar en la primera edición del <b>Premio
-                Nacional de Teatro Obra Semana.</b> este premio busca reconocer la creación del teatro de calidad en el
+            <b>OBRA Semana</b> convoca a dramaturgos, directores, escenógrafos, directores de arte, actores y demás
+            participantes ante los procesos de creación de teatro, a participar en la primera edición del <b>Premio
+                Nacional de Teatro Obra Semana.</b> Este premio busca reconocer la creación del teatro de calidad en el
             país e impulsar el crecimiento del gremio, para el surgimiento de nuevos y mejores profesionales que
             contribuyan a la diversificación de la oferta teatral en el país, capten la ateción de nuevos espectadores,
             mejoren la rentabilidad de los montajes y favorezcan el sector en general
@@ -18,7 +18,7 @@
                 <span>Del 13 de Septiembre al 14 de Octubre de 2016.</span>
             </li>
             <li class="col-4 small-12">
-                <h3>Aviso a finalista </h3>
+                <h3>Aviso a finalistas. </h3>
                 <span>Noviembre 10 de 2016.</span>
             </li>
             <li class="col-4 small-12">
@@ -32,26 +32,26 @@
 
         <div style="text-align: left"><h3>CATEGORÍAS</h3></div>
 
-        <h4>Categirías generales:</h4>
-        <p class="Home-p">Invitamos a los grupos constituidos y uniones temporales a participar con obras estrenadas,
-            reestrenas o
-            en gira, desde Enero de 2014 hasta el cierre de la convocatoría. Los ganadores serán escogidos por el
-            jurado, de acuerdo a la base de la convocatoria </p>
+        <h4>Categorías generales:</h4>
+        <p class="Home-p">Invitamos a  grupos constituidos y uniones temporales a participar con obras estrenadas,
+            reestrenadas o
+            en gira, desde enero de 2014 hasta el cierre de la convocatoría. Los ganadores serán escogidos por el
+            jurado, de acuerdo a las bases de la convocatoria. </p>
 
         <div class=" row around">
             <ul class="Home-categories">
                 <li>~Mejor obra de teatro</li>
-                <li>~Mejor director ad</li>
-                <li>~Mejor director ada</li>
-                <li>~Mejor director adasd</li>
-                <li>~Mejor director asdasd</li>
+                <li>~Mejor director </li>
+                <li>~Mejor dramaturgia</li>
+                <li>~Mejor diseño escenografia</li>
+                <li>~Mejor diseño de maquillaje</li>
             </ul>
             <ul class="Home-categories ">
-                <li>~Mejor obra de teatro</li>
-                <li>~Mejor director ads</li>
-                <li>~Mejor directo</li>
-                <li>~Mejor director asd asd</li>
-                <li>~Mejor director asd</li>
+                <li>~Mejor diseño de vestuario</li>
+                <li>~Mejor iluminación</li>
+                <li>~Mejor diseño de sonido</li>
+                <li>~Mejor actriz</li>
+                <li>~Mejor actor</li>
             </ul>
         </div>
         <hr>
