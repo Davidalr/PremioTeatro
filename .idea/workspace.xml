@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="76b5b2dd-a620-4b4e-a0a9-d1dc83b9e9d7" name="Default" comment="" />
+    <list default="true" id="76b5b2dd-a620-4b4e-a0a9-d1dc83b9e9d7" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/semana/index.php" afterPath="$PROJECT_DIR$/wp-content/themes/semana/index.php" />
+    </list>
     <ignored path="semana.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -21,18 +25,41 @@
     <favorites_list name="semana" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3646409">
+            <state vertical-scroll-proportion="-8.962963">
               <caret line="47" column="32" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.851851">
+              <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.24096386">
+              <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -44,10 +71,10 @@
         <option value="$PROJECT_DIR$/wp-content/themes/semana/package.json" />
         <option value="$PROJECT_DIR$/wp-content/themes/semana/assets/css/theme/Header.sass" />
         <option value="$PROJECT_DIR$/wp-content/themes/semana/assets/css/lib/settings.sass" />
-        <option value="$PROJECT_DIR$/wp-content/themes/semana/index.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/semana/footer.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/semana/header.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/semana/assets/css/style.sass" />
+        <option value="$PROJECT_DIR$/wp-content/themes/semana/index.php" />
       </list>
     </option>
   </component>
@@ -61,8 +88,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -89,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
@@ -105,12 +132,67 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="PremioTeatro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="semana" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PremioTeatro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="semana" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PremioTeatro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="semana" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PremioTeatro" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="wp-content" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="themes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="semana" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,16 +261,16 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="false" />
+    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25520834" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25465375" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962963" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32962963" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35394126" sideWeight="0.49791667" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -236,35 +318,11 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/assets/css/style.sass">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding>
-            <marker date="1470550334000" expanded="true" signature="92:159" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="167:251" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="266:368" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="373:676" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="445:522" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="527:593" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="598:675" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="682:992" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="692:737" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="742:892" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="897:935" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1000:1057" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1069:1106" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1123:1167" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1173:1536" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1220:1262" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1267:1338" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1343:1536" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1375:1432" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1450:1496" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1544:1749" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1764:1891" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1905:1936" placeholder="..." />
-          </folding>
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -272,31 +330,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding>
-            <marker date="1470550334000" expanded="true" signature="92:159" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="167:251" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="266:368" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="373:676" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="445:522" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="527:593" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="598:675" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="682:992" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="692:737" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="742:892" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="897:935" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1000:1057" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1069:1106" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1123:1167" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1173:1536" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1220:1262" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1267:1338" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1343:1536" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1375:1432" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1450:1496" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1544:1749" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1764:1891" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1905:1936" placeholder="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/assets/css/style.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -318,7 +358,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.19889502">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -347,19 +386,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5635359">
           <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-          <folding>
-            <marker date="1470525341000" expanded="true" signature="71:105" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="136:356" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="165:209" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="234:281" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="390:527" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="541:648" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="680:809" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="852:1143" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="1177:1412" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="1434:1545" placeholder="..." />
-            <marker date="1470525341000" expanded="true" signature="1564:1712" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -367,7 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -387,36 +412,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.33287293">
           <caret line="134" column="7" selection-start-line="134" selection-start-column="1" selection-end-line="134" selection-end-column="7" />
-          <folding>
-            <marker date="1461990157000" expanded="true" signature="59:635" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="456:634" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="649:825" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="859:970" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1003:1195" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1018:1194" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1223:1460" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1257:1459" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1275:1459" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1487:1721" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1521:1720" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1536:1720" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1754:1828" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1856:1969" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1890:1968" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="1996:2102" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2030:2101" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2110:2248" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2257:2390" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2396:2524" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2530:2642" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2651:2757" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2766:2870" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2879:2980" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="2989:3117" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="3125:3210" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="3217:3299" placeholder="..." />
-            <marker date="1461990157000" expanded="true" signature="3311:3401" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -424,96 +419,29 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="1.0607735">
           <caret line="36" column="14" selection-start-line="36" selection-start-column="14" selection-end-line="36" selection-end-column="14" />
-          <folding>
-            <marker date="1470550334000" expanded="true" signature="92:159" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="167:251" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="266:368" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="373:676" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="445:522" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="527:593" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="598:675" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="682:992" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="692:737" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="742:892" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="897:935" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1000:1057" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1069:1106" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1123:1167" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1173:1536" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1220:1262" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1267:1338" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1343:1536" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1375:1432" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1450:1496" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1544:1749" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1764:1891" placeholder="..." />
-            <marker date="1470550334000" expanded="true" signature="1905:1936" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5980663">
-          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
-          <folding>
-            <marker date="1470550075000" expanded="false" signature="8:63" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="128:957" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="1028:29295" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="1053:29285" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="1088:22934" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="1249:22920" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="1387:22905" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="22975:29275" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="23001:28956" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="23018:24033" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="23029:24028" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="23198:24007" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="24050:27469" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="24061:27464" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="24230:27459" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="24260:24434" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="24583:27432" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="24670:26027" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="24734:24843" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="27486:28942" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="27497:28937" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="27666:28916" placeholder="..." />
-            <marker date="1470550075000" expanded="true" signature="28988:29264" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8287293">
-          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
-          <folding>
-            <marker date="1470548969000" expanded="true" signature="55:3367" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="92:1527" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="128:258" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="133:240" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="285:968" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="510:568" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="998:1512" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="1038:1170" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="1210:1323" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="1363:1498" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="1564:3356" placeholder="..." />
-            <marker date="1470548969000" expanded="false" signature="1693:1709" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="1802:2097" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="2132:2723" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="2173:2422" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="2464:2708" placeholder="..." />
-            <marker date="1470548969000" expanded="true" signature="2801:3098" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3646409">
+        <state vertical-scroll-proportion="-8.962963">
           <caret line="47" column="32" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.851851">
+          <caret line="46" column="23" selection-start-line="46" selection-start-column="23" selection-end-line="46" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/semana/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24096386">
+          <caret line="53" column="32" selection-start-line="53" selection-start-column="32" selection-end-line="53" selection-end-column="32" />
           <folding />
         </state>
       </provider>
